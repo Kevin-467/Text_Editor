@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/mainwindow">
+        <file>mainwindow1/img/-_新建.png</file>
+        <file>mainwindow1/img/redo.png</file>
+        <file>mainwindow1/img/undo.png</file>
+        <file>mainwindow1/img/打开文件.png</file>
+        <file>mainwindow1/img/复制.png</file>
+        <file>mainwindow1/img/剪切.png</file>
+        <file>mainwindow1/img/粘贴_剪贴板操作_jurassic.png</file>
+        <file>mainwindow1/images/bold.png</file>
+        <file>mainwindow1/images/exit.png</file>
+        <file>mainwindow1/images/font.png</file>
+        <file>mainwindow1/images/info.png</file>
+        <file>mainwindow1/images/italic.png</file>
+        <file>mainwindow1/images/pencil.png</file>
+        <file>mainwindow1/images/print.png</file>
+        <file>mainwindow1/images/save.png</file>
+        <file>mainwindow1/images/save_as.png</file>
+        <file>mainwindow1/images/underline.png</file>
+        <file>mainwindow1/img/英译中.png</file>
+        <file>mainwindow1/img/中译英.png</file>
+        <file>繁转简.png</file>
+        <file>简转繁.png</file>
+        <file>mainwindow1/common_icon/繁转简.png</file>
+        <file>mainwindow1/common_icon/简转繁.png</file>
+        <file>mainwindow1/common_icon/居中对齐.png</file>
+        <file>mainwindow1/common_icon/信息.png</file>
+        <file>mainwindow1/common_icon/行间距.png</file>
+        <file>mainwindow1/common_icon/英译中.png</file>
+        <file>mainwindow1/common_icon/有序排序.png</file>
+        <file>mainwindow1/common_icon/右对齐.png</file>
+        <file>mainwindow1/common_icon/中译英.png</file>
+        <file>mainwindow1/common_icon/左对齐.png</file>
+        <file>mainwindow1/common_icon/左右对齐.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>新建文件.png</file>
+        <file>mainwindow1/common_icon/复制.png</file>
+        <file>mainwindow1/common_icon/信息.png</file>
+        <file>关闭 (1).png</file>
+    </qresource>
+</RCC>
